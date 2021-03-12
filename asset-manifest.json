@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pixaby/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-pixaby/static/js/main.fc0fa70e.chunk.js",
+    "main.js.map": "/react-pixaby/static/js/main.fc0fa70e.chunk.js.map",
+    "runtime-main.js": "/react-pixaby/static/js/runtime-main.a96dac14.js",
+    "runtime-main.js.map": "/react-pixaby/static/js/runtime-main.a96dac14.js.map",
+    "static/js/2.041128d8.chunk.js": "/react-pixaby/static/js/2.041128d8.chunk.js",
+    "static/js/2.041128d8.chunk.js.map": "/react-pixaby/static/js/2.041128d8.chunk.js.map",
+    "static/js/3.edcf0e26.chunk.js": "/react-pixaby/static/js/3.edcf0e26.chunk.js",
+    "static/js/3.edcf0e26.chunk.js.map": "/react-pixaby/static/js/3.edcf0e26.chunk.js.map",
+    "index.html": "/react-pixaby/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-pixaby/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.041128d8.chunk.js.LICENSE.txt": "/react-pixaby/static/js/2.041128d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96dac14.js",
+    "static/js/2.041128d8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fc0fa70e.chunk.js"
+  ]
+}
